@@ -1,0 +1,16 @@
+
+
+/* making the whole page with padding top */
+
+div.block-container
+{
+    padding-top: 20px;
+}
+
+
+/* Centering text in each gray box */
+div.css-ocqkz7.e1f1d6gn3 {
+    text-align: center;
+    background-color: #eee;
+  }
+
